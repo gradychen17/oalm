@@ -7,7 +7,7 @@ OpenALM is customization of [Tuleap](www.tuleap.org) so it provide Tuleap API(RE
 In the place where I work, it helps teams to deliver awesome applications, better, faster and easier.  It enables you to plan, track, code and collaborate on software projects.
 
 
-*oalm* is a command line for OpenALM/Tuleap. The CLI use Tuleap API to create, update, delete artifact that used to track issues/incidents/tickets. It's like a ticket tracking system in our case. 
+**oalm** is a command line for OpenALM/Tuleap. The CLI use Tuleap API to create, update, delete artifact that used to track issues/incidents/tickets. It's like a ticket tracking system in our case. 
 
 I developed this command line because the WebUI of OpenALM/Tuleap isn't very efficient when you have to manage many tickets. You need to click multiple times for each artifact on the webUI which is time-consuming. 
 
